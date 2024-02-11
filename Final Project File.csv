@@ -1,4 +1,4 @@
-State,Vintage,Dwellings,Year,HPI Yearly Percent Change,HPI Index Publication Base,Unemployment Rate,Unemployment,Employment,Labor Force,Employment-Population Ratio,Labor Force Participation Rate, Inflation Rate (%), Annual Change
+State,Vintage,Dwellings,Year,HPI Yearly Percent Change,HPI Index Publication Base,Unemployment Rate,Unemployment,Employment,Labor Force,Employment-Population Ratio,Labor Force Participation Rate,Inflation Rate (%),Annual Change
 Alabama,Existing,Single-Family,2000,2.509,74.117,4.6,99442.0,2047731.0,2147173.0,60.6,63.6,3.3769,1.19
 Alaska,Existing,Single-Family,2000,1.724,56.367,6.3,20187.0,299590.0,319777.0,68.7,73.3,3.3769,1.19
 Arizona,Existing,Single-Family,2000,6.005,63.434,4.0,99786.0,2410825.0,2510611.0,62.6,65.2,3.3769,1.19
