@@ -6,3 +6,5 @@ This also includes any files needed for the projects to run. For instance, the _
 needs 3 csv's to function. As such, all were included.
 
 This also allows for anyone to recreate the project, should they desire to.
+
+- For a look at my Tableau projects, go here: https://public.tableau.com/app/profile/megan1313/vizzes
