@@ -1,7 +1,7 @@
 # Projects
 A collection of projects from college and after.
 
-The Resume-Projects Branch features the projects listed on my resume, as well as some additional projects during my time as a student.
+The Resume-Projects Branch features the projects listed on my resume, as well as some additional projects during my time as a student that further reflect my skills as someone pursing fields in IT.
 This also includes any files needed for the projects to run. For instance, the _Inflation, HPI, and Unemployment_ file
 needs 3 csv's to function. As such, all were included.
 
