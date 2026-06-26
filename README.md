@@ -1,9 +1,8 @@
 # Projects
-A collection of projects from college and after.
+A collection of projects from college and onward (2023 - 2025).
 
-The Resume-Projects Branch features the projects listed on my resume, as well as some additional projects during my time as a student that further reflect my skills as someone pursing fields in IT.
-This also includes any files needed for the projects to run. For instance, the _Inflation, HPI, and Unemployment_ file
-needs 3 csv's to function. As such, all were included.
+The project, Inflation, HPI, and Unemployement, from my resume can be found under Project Files.
+This includes the original CSV files that are located under the "Altered CSV Files" folder (the name is misleading, to view their altercation, please see [Inflation, HPI, and Unemployement.ipynb](https://github.com/MegRob050/Projects/blob/82ded2912ec2c0e384a52f4250b79db1ae0d6982/Inflation%2C%20HPI%2C%20and%20Unemployement.ipynb)).
 
 Please note that "Python Finance Project" and "Pro Health Club" were done as a group.
 
